@@ -16,8 +16,8 @@ Pandora Box is powered by Python3.
 - Register image by scaning face
 - Register image by uploading form local machine
 - Can upload employer name,emali,id no
-- Search persion by scaning persion
-- Search persion by uploadig persion image
+- Search person by scaning persion
+- Search person by uploadig persion image
 
 
 ## Tech
@@ -30,9 +30,17 @@ Pandora Box is a open source projects :
 - [Face Recognition] - Read this artical for Face Recognition part. 
 
 
+## Installation(Via Zip File)
+- Download the project ZIP file from above
+- Unzip the project then go to the unziped folder
+- In Windows , Press Shift on your keyboard and Right Click on your mouse then Left-click Open PowerShell window here.
+- Run "pip3 install -r requirements.txt" command
+- Then run the GUI file by entering "python3 gui.py"
 
 
-## Installation
+
+
+## Installation(Via Command Shell)
 
 [Python 3](https://www.python.org/) v3.6+ to run.
 
