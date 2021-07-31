@@ -4,7 +4,7 @@ import face_recognition
 import os
 
 def findClass():
-    path = "/home/venom/PycharmProjects/Pandoras Box/build/employ_img"
+    path = "./employ_img"
     images = []
     classNames = []
     myList = os.listdir(path)
