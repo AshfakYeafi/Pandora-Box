@@ -31,7 +31,7 @@ Pandora Box is a open source projects :
 
 ## Installation
 
-Dillinger requires [Python 3](https://www.python.org/) v3.6+ to run.
+[Python 3](https://www.python.org/) v3.6+ to run.
 
 Download code fron github .
 
