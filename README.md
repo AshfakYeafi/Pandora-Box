@@ -9,6 +9,7 @@ Pandora Box is powered by Python3.
 - Python3
 - Tkinter
 - Face Recognition
+- OpenCv
 - ✨Magic ✨
 
 ## Features
@@ -16,7 +17,7 @@ Pandora Box is powered by Python3.
 - Register image by uploading form local machine
 - Can upload employer name,emali,id no
 - Search persion by scaning persion
-- Search persion by uploadi persion image
+- Search persion by uploadig persion image
 
 
 ## Tech
@@ -26,6 +27,8 @@ Pandora Box is a open source projects :
 - [Python3 ] - Python is one of the best programming language!
 - [Tkinter] - The tkinter package (“Tk interface”) is the standard Python interface to the Tk GUI toolkit. 
 - [OpenCv] - OpenCV provides a real-time optimized Computer Vision library, tools, and hardware. 
+- [Face Recognition] - Read this artical for Face Recognition part. 
+
 
 
 
@@ -61,4 +64,5 @@ MIT
 [Python3]: <https://www.python.org/>
 [Tkinter]: <https://docs.python.org/3/library/tkinter.html>
 [OpenCv]: <https://opencv.org/>
+[Face Recognition]: <https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78>
   
